@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a student at [Faculty of mathematics and physics](https://www.fmf.uni-lj.si/en/), [University of Ljubljana](https://www.uni-lj.si/en).
+I study mathematics. This is my personal GitHub account that contains mostly
+repositories for projects required by different courses.
+
 <!--
 **miklaviclenart/miklaviclenart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
